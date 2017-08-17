@@ -8,5 +8,7 @@ public static void main(String a[])
 	filename f=new filename();
 	int z=f.sum(3, 5);
 	System.out.println(z);
+	System.out.println("the result is"+z);
+	
 }
 }
