@@ -9,6 +9,8 @@ public static void main(String a[])
 	int z=f.sum(3, 5);
 	System.out.println(z);
 	System.out.println("the result is"+z);
+	System.out.println("test print");
+
 	
 }
 }
